@@ -1,3 +1,5 @@
+/* Logo + background */
+
 .logo-container {
     padding-top: 60px;
     background-image:url("../img/pattern.png");
@@ -8,4 +10,33 @@
 
 .logo-container img {
     height: 50px;
+}
+
+
+
+/* title + caption */
+
+h1 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin: 0;
+}
+
+.caption {
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(91, 151, 254);
+}
+
+
+
+/* images container */
+
+.image-container {
+    margin-top: 20px;
 }
