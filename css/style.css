@@ -81,3 +81,40 @@ table {
 .light-row {
     background-color: rgb(168, 224, 255);
 }
+
+
+
+/* footer */
+
+footer {
+    margin-top: 30px;
+}
+
+h4 {
+    color: rgb(160, 160, 160);
+}
+
+.advice-1 {
+    display: block;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: auto;
+    padding: 10px;;
+}
+
+.advice-2 {
+    margin-top: 10px;
+    display: block;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: auto;
+    padding: 10px;
+}
+
+footer p {
+    color: #fff;
+}
