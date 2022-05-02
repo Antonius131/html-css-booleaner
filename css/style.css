@@ -40,3 +40,44 @@ a {
 .image-container {
     margin-top: 20px;
 }
+
+
+
+/* main content */
+
+.main-content {
+    margin-top: 30px;
+}
+
+.highlighted-text {
+    background-color: rgb(242, 255, 0);
+}
+
+
+
+/* table */
+
+table {
+    margin: 30px 0px;
+}
+
+.row {
+    height: 40px;
+}
+
+.column {
+    width: 20%;
+}
+
+.description-column {
+    width: 60%;
+}
+
+.blue-row {
+    background-color: rgb(6, 164, 255);
+    color: #fff;
+}
+
+.light-row {
+    background-color: rgb(168, 224, 255);
+}
